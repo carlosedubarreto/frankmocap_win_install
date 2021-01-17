@@ -6,6 +6,20 @@ path_cwd = os.getcwd()
 path = path_cwd+"/detectors"
 
 
+#### Install 100-DOH hand-object detectors
+folder_hand_object = 'hand_object_detector'
+if not os.path.exists(path+'/'+folder_hand_object):
+    os.chdir(path)
+    print('downloading '+folder_hand_object)
+    git.Git(path).clone('https://github.com/carlosedubarreto/hand_object_detector.git')
+
+
+
+
+
+
+
+
 folder_orig = 'hand_detector.d2'
 folder_dest= 'hand_only_detector'
 ### Install 100-DOH hand-only detectors
