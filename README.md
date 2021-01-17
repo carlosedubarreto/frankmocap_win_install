@@ -4,13 +4,21 @@
 
 Software to install before doing Frankmocap installation:
 
-### VisualStudio 2017
-### Miniconda
-### FFMPEG
-
+<ul>
+  <li>VisualStudio 2017</li>
+  <li>Nvidia Cuda Driver 10.0</li>
+  <li>Miniconda</li>
+  <li>FFMEPG</li>
+</ul>
+ 
 
 Download Visual Studio 2017 and install it
 https://visualstudio.microsoft.com/pt-br/vs/older-downloads/
+
+Download CUDA 10.0
+https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10
+
+
 
 See the beggining of my other video, where I explain how to install miniconda and add ffmpeg to windows path
   
