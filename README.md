@@ -57,7 +57,7 @@ install_win_full_body.bat
 below you will have 2 links that you must register and download some files  
 
 Goto:  
-http://smplify.is.tue.mpg.de/login   
+http://smplify.is.tue.mpg.de/downloads   
 Download the file: mpips-smplify_public_v2.zip
 
 extract the file (that is inside the zip)  
