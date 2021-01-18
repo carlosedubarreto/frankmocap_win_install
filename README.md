@@ -12,8 +12,11 @@ Software to install before doing Frankmocap installation:
 </ul>
  
 
-Download Visual Studio 2017 and install it
+Download Visual Studio 2017 and install it (or use the vs_community.exe in this github)
 https://visualstudio.microsoft.com/pt-br/vs/older-downloads/
+
+the option I think is the most important is the C++ package
+
 
 Download CUDA 10.0
 https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10
