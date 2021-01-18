@@ -24,6 +24,9 @@ https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Windows&target
 Miniconda  
 https://docs.conda.io/en/latest/miniconda.html
 
+FFMPEG  
+https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
+
 See the beggining of my other video, where I explain how to install miniconda and add ffmpeg to windows path
   
   
