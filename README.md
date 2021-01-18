@@ -1,5 +1,9 @@
 # frankmocap_win_install
 
+#Video Tutorial
+[![Video Tutorial to instal Frankmocap](https://img.youtube.com/vi/T8IHhfNzBRs/0.jpg)](https://www.youtube.com/watch?v=T8IHhfNzBRs) 
+  
+
 # Instructions
 
 Software to install before doing Frankmocap installation:
@@ -27,11 +31,6 @@ https://docs.conda.io/en/latest/miniconda.html
 FFMPEG  
 https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
 
-See the beggining of my other video, where I explain how to install miniconda and add ffmpeg to windows path
-  
-  
-[![Install Miniconda and FFMEPG](https://img.youtube.com/vi/3qhs5IRJ1LI/0.jpg)](https://www.youtube.com/watch?v=3qhs5IRJ1LI) 
-  
 
 ## unpack to the same folder
 https://github.com/facebookresearch/frankmocap  
