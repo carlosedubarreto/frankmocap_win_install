@@ -49,6 +49,9 @@ conda install cudatoolkit=10.1 cudnn=7.6.0
 ## Install pytorch and torchvision 
 conda install -c pytorch pytorch==1.6.0 torchvision cudatoolkit=10.1
 
+## Install GIT (not explained in the video)
+conda install -c anaconda git
+
 ## run this comand
 "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\vcvars64.bat"
 
